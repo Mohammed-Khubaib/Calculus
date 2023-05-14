@@ -1,2 +1,2 @@
 # Calculus
-Calculus Calculator WebApp
+Calculus Solver WebApp
